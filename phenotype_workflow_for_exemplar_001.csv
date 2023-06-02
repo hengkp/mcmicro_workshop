@@ -1,0 +1,4 @@
+,,CD45,FOXP3,CD11B
+all,Other Immune cells,pos,,
+Other Immune cells,Myeloid Lineage,,,anypos
+CD4 T cells,Regulatory T cells,,pos,
